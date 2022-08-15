@@ -43,3 +43,24 @@ h3{
     font-weight: 700;
     
 }
+section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.girls{
+    width: 80%;
+}
+.second-section{
+    background-image: url(img/bigstock.jpg);
+    background-repeat: no-repeat;
+
+}
+.detailes-more{
+    text-align: center;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 10px 40px;
+    background-image: linear-gradient(rgb(185, 91, 185), red);
+    color: aliceblue;
+    border-radius: 10px;
+}
