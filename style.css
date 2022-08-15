@@ -64,3 +64,25 @@ section{
     color: aliceblue;
     border-radius: 10px;
 }
+.img-logo{
+    display: flex;
+    display: contents;
+    
+}
+
+
+.img-dev{
+    text-align: center;
+    margin-bottom: 150px;
+
+}
+.brand-logos{
+    text-align: center;
+    color: white;
+    margin-left: 23%;
+    margin-right: 25%;
+    background-image: linear-gradient(rgb(131, 1, 1), rgb(0, 108, 116));
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    border-radius: 10px;
+}
